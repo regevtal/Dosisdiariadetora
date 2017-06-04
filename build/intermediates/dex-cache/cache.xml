@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Regev\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="H:\AndroidDevelopment\Dosisdiariadetora\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_fb0eadffbd9b1f45af334d275b30f5b917936931\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\AndroidDevelopment\Dosisdiariadetora\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="775c3301bc772c2b04dd03a1fe3345c90e533980">
+        <dex dex="H:\AndroidDevelopment\Dosisdiariadetora\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_4e183634d56ae7309d3bf7493d511fdac85ffae7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Regev\.android\build-cache\63deb9e3c2ea3958d1c81b10049dd8e0da0077b5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="H:\AndroidDevelopment\Dosisdiariadetora\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_40dea7f855b0c9caf5efc2081cc7f3ada66ab6f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Regev\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="H:\AndroidDevelopment\Dosisdiariadetora\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_7d939355e98d2b94cd2a0930d3502e46c67059be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Regev\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="H:\AndroidDevelopment\Dosisdiariadetora\app\build\intermediates\transforms\dex\debug\folders\1000\10\hamcrest-core-1.3_0108a1c280eb33c5893ebab997abbd912da74265\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\AndroidDevelopment\Dosisdiariadetora\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="775c3301bc772c2b04dd03a1fe3345c90e533980">
+        <dex dex="H:\AndroidDevelopment\Dosisdiariadetora\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_4e183634d56ae7309d3bf7493d511fdac85ffae7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Regev\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="H:\AndroidDevelopment\Dosisdiariadetora\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_f568b84a332b61953e3cbff5bc51cb2d243f45bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Regev\.android\build-cache\227cf281742e5e500562b3411701489150c4bc16\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="H:\AndroidDevelopment\Dosisdiariadetora\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_64a71e12e334cb88201ab153f5abf9e795837faf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Regev\.android\build-cache\b6bda1e7c124250833de610cc701cea96c89c869\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="H:\AndroidDevelopment\Dosisdiariadetora\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_29654e60d1e978604fa8b224cab3c1b93ccc3cd9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Regev\.android\build-cache\52851d2f52b955b2308a26115c6046a4f8bfbc2b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="H:\AndroidDevelopment\Dosisdiariadetora\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b2b5f5c1c712373e53abc1dcded4b9528f21711b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Regev\.android\build-cache\ff6419e1a36eca4df06448f710ab67f9387b87da\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="H:\AndroidDevelopment\Dosisdiariadetora\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c823b85d050f63f3f56e3a1fd53b25e6d0c32b40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Regev\.android\build-cache\997ad9f5d17c189b6c5c0e81e60c3d17af45f79b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="H:\AndroidDevelopment\Dosisdiariadetora\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_796ad824e7f19ff8e22d14246737ba744324affb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Regev\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="H:\AndroidDevelopment\Dosisdiariadetora\app\build\intermediates\transforms\dex\debug\folders\1000\10\junit-4.12_5dfe87f81b8dc252d1fda9faa300cd1b569b4c5c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Regev\.android\build-cache\a10f9f5286accf2ab4fd4cf02e1e73836a428129\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="H:\AndroidDevelopment\Dosisdiariadetora\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_765cef8d870ac412ed097c889f1122d4c4cb85da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Regev\.android\build-cache\49f68723e42ce9664a975cb0d821ea9b7baa5903\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="H:\AndroidDevelopment\Dosisdiariadetora\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e8942a1075ad6b6e34b9aaac3615bb42c3a77acd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Regev\.android\build-cache\0ae9e6a961639b44c5d9b4c4306fc544f217517d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="H:\AndroidDevelopment\Dosisdiariadetora\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_49dbc63d485f35f2b54a5fcdc8d57473b0b9081a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Regev\.android\build-cache\7385f4d8a3f27241cd5420950fcf8a6efa12856c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="H:\AndroidDevelopment\Dosisdiariadetora\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7bf74d3ce357c4b2dfb1503f22904b9463f4ef9d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Regev\.android\build-cache\8f7b5d17348dad8319cfed5eb33a2f177d3a098e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="H:\AndroidDevelopment\Dosisdiariadetora\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cc4b69fee9fc1906613ca5bd716f72d70a5733d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Regev\.android\build-cache\d42e3c5877e7c2b0da3e3128c8c11e3084e409c6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="H:\AndroidDevelopment\Dosisdiariadetora\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_566e12d281e0aa3355643992cef9098ff932a908\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\AndroidDevelopment\Dosisdiariadetora\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="H:\AndroidDevelopment\Dosisdiariadetora\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ae053075c67870334f3d13c32f966bece0722b6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Regev\.android\build-cache\6ffc65774a285f04e654c39bfaf2ac181e5b53c9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="228e2a0301cf4e8a208e1debfc647df68841626b">
+        <dex dex="H:\AndroidDevelopment\Dosisdiariadetora\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9069e0aa2e971fae105c5954266eff493ff78f02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Regev\.android\build-cache\2c0d55c679d52c31e247f0cd5a5789a9664f0d62\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="H:\AndroidDevelopment\Dosisdiariadetora\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7ebe8e210df95f526fdea092a395ba7a731f3798\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\AndroidDevelopment\Dosisdiariadetora\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="H:\AndroidDevelopment\Dosisdiariadetora\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ae053075c67870334f3d13c32f966bece0722b6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\AndroidDevelopment\AndroidSdk\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="H:\AndroidDevelopment\Dosisdiariadetora\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_a2a1e843e8af29a2787c0bedab2bcb639f66a64a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Regev\.android\build-cache\f284206e7bd4dfecd8d50b859298d5f32a4edd15\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="H:\AndroidDevelopment\Dosisdiariadetora\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_320723fb43e78f111add96f0642977abbea679ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Regev\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="H:\AndroidDevelopment\Dosisdiariadetora\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_2141bbb4cfd7efc8d595ccf52d0d481d3992b1cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Regev\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="H:\AndroidDevelopment\Dosisdiariadetora\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.0_4217f31657cebbf467dabaafa0ed83bc0be10e4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Regev\.android\build-cache\ca205502a85468e4b5c923ecacf349f6b1a815f0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="H:\AndroidDevelopment\Dosisdiariadetora\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_907faa9e8a04c433c5abb4355911a167940e007e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Regev\.android\build-cache\e7cf6ad522418faa793d71530843611fe1c7954d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="H:\AndroidDevelopment\Dosisdiariadetora\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fade423a6c3f8ede8cbb68aefc86e438f616b32f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Regev\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="H:\AndroidDevelopment\Dosisdiariadetora\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.8.0_43860adf4d9f086c0a95d46c5a96de44c54e1f7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Regev\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="H:\AndroidDevelopment\Dosisdiariadetora\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_4c5e2ed1a62df8787bbdad3b3d2e210353249adc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Regev\.android\build-cache\f978dc29f6601d6a64d732b3c4d0cfd9b5c401b8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="H:\AndroidDevelopment\Dosisdiariadetora\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1535916866291d348cac009f113cae5e29e0fcd2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Regev\.android\build-cache\ee0a495baf555e44ba15e28a90d4f83462b6fb2a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="H:\AndroidDevelopment\Dosisdiariadetora\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d76f95e30f323e226da542d554ee6b7c477b2279\classes.dex" />
+    </item>
+
+</items>

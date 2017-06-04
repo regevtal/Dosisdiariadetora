@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Dosisdiariadetora</string>
+    <string name="search_hint">Search Audio</string>
+    <string name="action_search">Search</string>
+    <string name="play_button">Play Button</string>
+    <string name="btn_previous">  </string>
+    <string name="btn_next">  </string>
+    <string name="btn_repeat"> </string>
+    <string name="btn_shuffle"> </string>
+    <string name="song_title_label">Song Title</string>
+    <string name="song_time">0:00</string>
+    <string name="action_add_favourite">Add to Favourites</string>
+    <string name="action_play_next">Play Next</string>
+    <string name="backdrop_title">DOSIS DIARIA DE TORAH</string>
+    <string name="dosis_today">Name Dosis</string>
+    <string name="backdrop_subtitle">Rab Benni Aharonov</string>
+    <string name="header_today_play">Dosis De Hoy</string>
+    <string name="older_clases">Older Clases</string>
+    <string name="msg_of_week">Mensaje de la semana:</string>
+    <string name="play_list_title">Dosis Pasadas</string>
+    <string name="donatbtn">DONA LA PROXIMA DOSIS</string>
+</resources>
